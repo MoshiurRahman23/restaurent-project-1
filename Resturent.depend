@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667400959 source:d:\resturent\untitled1.c
+
+1667410528 source:d:\resturent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
